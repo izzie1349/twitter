@@ -1,0 +1,19 @@
+{
+  "name": "twitter-js",
+  "version": "1.0.0",
+  "description": "simple \"tweet\" app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izzie1349/twitter.git"
+  },
+  "author": "israel alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izzie1349/twitter/issues"
+  },
+  "homepage": "https://github.com/izzie1349/twitter#readme"
+}
